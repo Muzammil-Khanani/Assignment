@@ -1,6 +1,6 @@
 void main() {
   print(
-      "Q.3: Create a list of Days and remove one by one from the end of list.");
+      "Q.3: Create a list of Days and remove one by one from the end of list");
   List<String> Days = [
     "Monday",
     "Tuesday",
