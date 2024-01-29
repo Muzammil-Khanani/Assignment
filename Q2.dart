@@ -1,6 +1,6 @@
 void main() {
   print(
-      "Q.2: Create an empty list of type string called days. Use the add method to add names of 7 days and print all days.");
+      "Q.2: Create an empty list of type string called days. Use the add method to add names of 7 days and print all days");
   List<String> Days = [];
   Days.add("Monday");
   Days.add("Tuesday");
